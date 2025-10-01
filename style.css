@@ -98,6 +98,25 @@
 a, a:visited{
     text-decoration: none;
     color: white;
+
+    background-color: #1992D4;
+    color: white;
+    padding: 1rem 2rem;
+}
+
+.nav1, .nav2{
+    margin: 2em 0;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    list-style: none;
+}
+
+a, a:visited{
+    text-decoration: none;
+    color: white;
 }
 
 .main{
